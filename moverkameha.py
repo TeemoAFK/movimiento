@@ -20,8 +20,3 @@ canvas.bind_all('<KeyPress-Down>', movekame)
 canvas.bind_all('<KeyPress-Left>', movekame)
 canvas.bind_all('<KeyPress-Right>', movekame)
 tk.mainloop()
-
-tk.mainloop()
-
-
-tk.mainloop()
